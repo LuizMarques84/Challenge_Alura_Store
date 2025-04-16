@@ -1,8 +1,8 @@
-# Análise Estratégica das Lojas de Varejo do Sr. João 🚀
+# Análise Estratégica das Lojas Alura Store do Sr. João 🚀
 
 ## Visão Geral
 
-Este projeto apresenta uma análise estratégica detalhada de quatro lojas de varejo pertencentes ao Sr. João, localizadas na vibrante New Cairo City, Governadoria do Cairo, Egito. Nosso objetivo principal é fornecer insights cruciais e recomendações práticas para auxiliar o Sr. João em suas decisões estratégicas mais importantes, com foco especial na identificação da loja mais promissora para venda, visando impulsionar seu novo empreendimento comercial. Mergulhamos no desempenho financeiro e na satisfação do cliente em cada uma das quatro unidades, revelando oportunidades e desafios únicos.
+Este projeto apresenta uma análise estratégica detalhada de quatro lojas de varejo pertencentes ao Sr. João. Nosso objetivo principal é fornecer insights cruciais e recomendações práticas para auxiliar o Sr. João em suas decisões estratégicas mais importantes, com foco especial na identificação da loja mais promissora para venda, visando impulsionar seu novo empreendimento comercial. Mergulhamos no desempenho financeiro e na satisfação do cliente em cada uma das quatro unidades, revelando oportunidades e desafios únicos.
 
 ## Principais Descobertas 💡
 
